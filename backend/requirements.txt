@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+pymongo==4.6.0
+rapidfuzz==3.6.1
+textdistance==4.6.0
+indic-transliteration==2.3.44
+pandas==2.2.2
